@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Feather RAK3172")
+    (date "2022-12-31")
+    (rev "1.0")
+    (company "Teapot Laboratories")
+  )
+
   (lib_symbols
     (symbol "Battery_Management:MCP73831-2-OT" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -7.62 6.35 0)

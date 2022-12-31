@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Feather RAK3172")
+    (date "2022-12-31")
+    (rev "1.0")
+    (company "Teapot Laboratories")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
