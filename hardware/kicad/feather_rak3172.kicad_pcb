@@ -439,7 +439,7 @@
       (net 1 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp ceac87c7-f253-4308-a2af-14fff7eb3241))
     (pad "S1" thru_hole oval (at 4.32 1.075 270) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp dd2382ce-2955-4fe1-ad65-d96f06b72f49))
-    (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/u262-161n-4bvc11.stp"
+    (model "${TEAPOT_3DMODEL_DIR}/u262-161n-4bvc11.stp"
       (offset (xyz 0 -3.5 1.7))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 180))
@@ -672,7 +672,7 @@
       (net 1 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp d4ad8cd9-5932-4fd1-abd5-752750887a84))
     (pad "MP" smd roundrect (at -3.35 2.9 180) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666673333) (tstamp 83ab8e2c-1d80-4f5f-8ccf-8979da8eafb7))
     (pad "MP" smd roundrect (at 3.35 2.9 180) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666673333) (tstamp e4a6dfb1-07a8-42ab-b719-9c259c590262))
-    (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/S2B-PH-SM4-TB.STEP"
+    (model "${TEAPOT_3DMODEL_DIR}/S2B-PH-SM4-TB.STEP"
       (offset (xyz 0 -4.4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1188,7 +1188,7 @@
       (net 1 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 4df14564-2d31-458e-bfa1-87eae24eed83))
     (pad "2" smd rect (at 3.6195 2.54 270) (size 1.524 4.064) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pinfunction "Ext") (pintype "passive") (tstamp bc1ac22e-69fa-4f84-b428-c2d8aeb41d18))
-    (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/CON-SMA-EDGE-S--3DModel-STEP-269445.STEP"
+    (model "${TEAPOT_3DMODEL_DIR}/CON-SMA-EDGE-S--3DModel-STEP-269445.STEP"
       (offset (xyz 3.3 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
