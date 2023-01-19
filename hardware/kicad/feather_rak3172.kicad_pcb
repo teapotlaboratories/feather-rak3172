@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Feather RAK3172")
-    (date "2023-01-06")
-    (rev "3.0")
+    (date "2023-01-19")
+    (rev "4.0")
     (company "Teapot Laboratories")
   )
 
