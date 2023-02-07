@@ -8,7 +8,7 @@
   (title_block
     (title "Feather RAK3172")
     (date "2023-02-06")
-    (rev "4.6")
+    (rev "5")
     (company "Teapot Laboratories")
   )
 
@@ -3981,7 +3981,7 @@
   (gr_text "BAT" (at 133.477 95.25 270) (layer "B.SilkS") (tstamp 7938b562-a226-4984-8e0b-4ceab10f9275)
     (effects (font (size 0.89408 0.89408) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Rev 4.4" (at 128.524 104.648) (layer "B.SilkS") (tstamp 81deec10-4da2-49ee-a8eb-e4c5c92c72eb)
+  (gr_text "Rev 5" (at 128.524 104.648) (layer "B.SilkS") (tstamp 81deec10-4da2-49ee-a8eb-e4c5c92c72eb)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
   )
   (gr_text "20/A1" (at 135.89 108.712 270) (layer "B.SilkS") (tstamp 98b042a4-8fbe-4db6-87c1-8f8cb99279ee)
