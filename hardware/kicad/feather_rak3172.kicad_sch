@@ -2764,7 +2764,7 @@
     (uuid 5bd8adaf-3533-4a98-ac13-215dc4898e64)
   )
   (text "Mounting Hole" (at 153.67 195.58 0)
-    (effects (font (size 2 2)) (justify left bottom))
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 67cf8c2d-2285-423c-b1a5-1bc7b8829f1b)
   )
   (text "R Prog Charge Rate:\n10K = 100mA\n 5K = 200mA\n 2K = 500mA\n 1K = 1000mA"
