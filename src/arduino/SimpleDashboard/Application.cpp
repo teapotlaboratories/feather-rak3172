@@ -4,16 +4,22 @@
 /* application implementation */
 namespace teapot {
 
-  Sensor operator|(Sensor m, Sensor n){
-    return m;
+  uint32_t operator|( const Sensor m, const Sensor n ){
+    return ( static_cast<uint32_t>(m) | static_cast<uint32_t>(n) ) ;
   }
-  
+  uint32_t operator&( const uint32_t m, const Sensor n ){
+    return ( m & static_cast<uint32_t>(n) ) ;
+  }
+    
   Application::Application(){}
   void Application::Initialize()
   {    
     // setup battery read measure
     analogReadResolution(14);
     pinMode(BATT_MEASURE, INPUT);
+
+    // initialize led pin
+    pinMode( BLUE_LED, OUTPUT );
     
     // initialize GPS
     EnablePeripheral(true);
