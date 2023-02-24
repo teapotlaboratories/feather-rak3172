@@ -1,14 +1,12 @@
-#include "Adafruit_ThinkInk.h"
+#include <LOLIN_EPD.h>
+#include <Adafruit_GFX.h>
 
-#define EPD_CS      PA4
-#define EPD_DC      PA0  
-#define EPD_RESET   -1 // can set to -1 and share with microcontroller Reset!
-#define EPD_BUSY    -1 // can set to -1 to not use a pin (will wait a fixed delay)
-#define SRAM_CS     -1 // disable using SRAM chip.
-                       // currently RUI3 uses hw pin to drive SPI CS, which conflicts
-                       // with the SRAM_CS when SPI transfer is in process.
+#define EPD_CS    PA4
+#define EPD_DC    PA0 
+#define EPD_RST   -1  // can set to -1 and share with microcontroller Reset!
+#define EPD_BUSY  -1  // can set to -1 to not use a pin (will wait a fixed delay)
 
-ThinkInk_213_Tricolor_RW display(EPD_DC, EPD_RESET, EPD_CS, SRAM_CS, EPD_BUSY);
+LOLIN_SSD1680 display(250, 122, EPD_DC, EPD_RST, EPD_CS, EPD_BUSY); //hardware SPI
 
 void setup() {
   Serial.println(" EPD Display Demo ");
