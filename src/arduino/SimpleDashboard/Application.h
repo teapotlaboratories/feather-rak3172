@@ -33,12 +33,14 @@ namespace teapot{
     kTimeout,
   };
   
-  enum class Sensor {
+  enum class Sensor : uint32_t {
     kNone     = 0b0,
     kAll      = 0b1111,
     kBme68x   = 0b1,
   };
- 
+  uint32_t operator|( const Sensor m, const Sensor n );  
+  uint32_t operator&( const uint32_t m, const Sensor n );  
+  
   struct SensorData {
     // Temperature (Celsius)
     float temperature;
