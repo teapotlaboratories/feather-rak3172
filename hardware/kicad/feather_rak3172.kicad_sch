@@ -7,7 +7,7 @@
   (title_block
     (title "Feather RAK3172")
     (date "2023-03-20")
-    (rev "8.3")
+    (rev "8.4")
     (company "Teapot Laboratories")
   )
 
@@ -3806,7 +3806,7 @@
     (property "Value" "SMA-KE-P903" (id 1) (at 60.96 160.3131 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Teapot:SMA_HJTech_023" (id 2) (at 57.15 158.75 0)
+    (property "Footprint" "Teapot:SMA-KE-P903" (id 2) (at 57.15 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 57.15 158.75 0)
@@ -5154,7 +5154,7 @@
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Teapot:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/6d4b0e6f-888b-4ffe-a917-57f63f8b803a"
-      (reference "J4") (unit 1) (value "SMA-KE-P903") (footprint "Teapot:SMA_HJTech_023")
+      (reference "J4") (unit 1) (value "SMA-KE-P903") (footprint "Teapot:SMA-KE-P903")
     )
     (path "/f936ce53-948e-44b1-9dff-b7868ae44450"
       (reference "J5") (unit 1) (value "SWD") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
