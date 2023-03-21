@@ -6,8 +6,8 @@
 
   (title_block
     (title "Feather RAK3172")
-    (date "2023-02-21")
-    (rev "8.1")
+    (date "2023-03-20")
+    (rev "8.2")
     (company "Teapot Laboratories")
   )
 
@@ -2799,7 +2799,7 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 67cf8c2d-2285-423c-b1a5-1bc7b8829f1b)
   )
-  (text "R Prog Charge Rate:\n10K = 100mA\n 5K = 200mA\n 2K = 500mA\n 1K = 1000mA"
+  (text "R5 Prog Charge Rate:\n10K = 100mA\n 5K = 200mA\n 2K = 500mA\n 1K = 1000mA"
     (at 143.51 76.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6b57afbd-ca06-42ac-8047-6ca447533882)
