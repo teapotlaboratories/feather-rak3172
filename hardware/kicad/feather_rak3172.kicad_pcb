@@ -1095,7 +1095,7 @@
     (property "Sheetfile" "feather_rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/6d4b0e6f-888b-4ffe-a917-57f63f8b803a")
-    (attr smd)
+    (attr through_hole)
     (fp_text reference "J4" (at -1.5865 -0.018 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e2eb52d2-8148-4243-aba3-ec3da95b8ca0)
