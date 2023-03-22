@@ -4594,7 +4594,7 @@
     (property "Reference" "J1" (id 0) (at 153.67 110.4901 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Pin Header" (id 1) (at 153.67 107.9501 0)
+    (property "Value" "DNP" (id 1) (at 153.67 107.9501 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" (id 2) (at 151.13 110.49 0)
@@ -4861,7 +4861,7 @@
     (property "Reference" "J2" (id 0) (at 166.37 113.0299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Pin Header" (id 1) (at 166.37 115.5699 0)
+    (property "Value" "DNP" (id 1) (at 166.37 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical" (id 2) (at 168.91 113.03 0)
@@ -5145,10 +5145,10 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/d6b41ed7-e99d-4609-b23a-95b1b5eb83ea"
-      (reference "J1") (unit 1) (value "Pin Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "DNP") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
     )
     (path "/f2d89196-a7c9-4b41-b283-223a8d7fdfe8"
-      (reference "J2") (unit 1) (value "Pin Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "DNP") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
     )
     (path "/9ecef5fe-9566-4045-9671-419d9c3abcc8"
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Teapot:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
