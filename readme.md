@@ -31,6 +31,11 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 ## Schematics
 <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/hardware/schematic.png" alt="schematic"/></p>
 
+### Jumper Definition
+- JP1 and JP4: Enable/Disable Voltage Divider for Battery Sensing
+- JP2: Enable/Disable LED Indicator on Pin 8
+- JP3, JP5, and JP6: Enable/Disable UART Bridge
+
 ## Board
 <p align="center">  <img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_render.gif" alt="pcb_render"  width="80%" height="80%"/><br><b>PCB Render</b></p>
 
