@@ -1,0 +1,26 @@
+Id,Designator,Quantity,Manufacturer,Manufacturer Part Number,Value,Description,Footprint,Type,Distributor,Distributor Part Number,Distributor Link
+1,"C11,C7,C4,C1",4,YAGEO,CC0603KRX7R6BB104,100n,Ceramic Capacitor 100n 10% 10V X7R,0603_1608Metric,SMD,LCSC,C519438,https://www.lcsc.com/product-detail/_YAGEO-_C519438.html
+2,"C6,C3",2,Samsung Electro-Mechanics,CL10A106KP8NNNC,10u,Ceramic Capacitor 10u 10% 10V X5R,0603_1608Metric,SMD,LCSC,C19702,https://www.lcsc.com/product-detail/_Samsung-Electro-Mechanics-_C19702.html
+3,"C9,C8,C10",3,Samsung Electro-Mechanics,CL21A106KPFNNNE,10u,Ceramic Capacitor 10u 10% 10V X5R,0805_2012Metric,SMD,LCSC,C17024,https://www.lcsc.com/product-detail/_Samsung-Electro-Mechanics-_C17024.html
+4,D1,1,Everlight Elec,19-217/BHC-ZL1M2RY/3T,BLUE,LED Blue 2V 25mA,0603_1608Metric,SMD,LCSC,C72041,https://www.lcsc.com/product-detail/_Everlight-Elec-_C72041.html
+5,D2,1,EKINGLUX,E6C0603SEAC1UDA,ORANGE,LED Orange 2V 25mA,0603_1608Metric,SMD,LCSC,C375450,https://www.lcsc.com/product-detail/_EKINGLUX-_C375450.html
+6,D3,1,GOODWORK,B5819W,B5819W,Schottky Barrier Diodes (SBD) 40V 0.58V@1A,SOD-123,SMD,LCSC,C2943878,https://www.lcsc.com/product-detail/_GOODWORK-_C2943878.html
+7,J3,1,XKB Connectivity,U262-161N-4BVC11,U262-161N-4BVC11,USB Type C Receptacle,USB_C_Receptacle_XKB_U262-16XN-4BVC11,SMD,LCSC,C319148,https://www.lcsc.com/product-detail/_XKB-Connectivity-_C319148.html
+8,J4,1,DreamLNK,SMA-KE-P903,SMA-KE-P903,SMA RF Connectors Board Edge 50Ω 5.35mm 915MHz ,SMA-KE-P903,Through-Hole,LCSC,C914558,https://www.lcsc.com/product-detail/_DreamLNK-_C914558.html
+9,J6,1,JST Sales America Inc.,S2B-PH-SM4-TB(LF)(SN),S2B-PH-SM4-TB,"Connector Header Right Angle 2 position 0.079"" (2.00mm)",JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,SMD,LCSC,C295747,https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-S2B-PH-SM4-TB-LF-SN_C295747.html
+10,L1,1,YAGEO,RC0402JR-070RL,0,Resistor 0 5% 65mW,0402_1005Metric,SMD,LCSC,C60485,https://www.lcsc.com/product-detail/_YAGEO-_C60485.html
+11,Q1,1,Diodes Incorporated,DMG3415UQ-7,DMG3415UQ-7,MOSFET P-Channel 20V 4A 39mΩ@4.5V,SOT-23,SMD,LCSC,C459537,https://www.lcsc.com/product-detail/_Diodes-Incorporated-_C459537.html
+12,R10,1,UNI-ROYAL(Uniroyal Elec),0603WAF1005T5E,10M,Resistor 10M 1% 100mW,0603_1608Metric,SMD,LCSC,C7250,https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C7250.html
+13,"R2,R6,R1",3,FOJAN,FRC0603J102 TS,1k,Resistor 1k 5% 100mW,0603_1608Metric,SMD,LCSC,C2907113,https://www.lcsc.com/product-detail/_FOJAN-_C2907113.html
+14,"R3,R5,R4",3,YAGEO,RC0603FR-075K1L,5.1k,Resistor 5.1k 1% 100mW,0603_1608Metric,SMD,LCSC,C105580,https://www.lcsc.com/product-detail/_YAGEO-_C105580.html
+15,"R7,R8",2,YAGEO,RC0603JR-0710KL,10k,Resistor 10k 5% 100mW,0603_1608Metric,SMD,LCSC,C99198,https://www.lcsc.com/product-detail/_YAGEO-_C99198.html
+16,R9,1,UNI-ROYAL(Uniroyal Elec),0603WAF4704T5E,4.7M,Resistor 4.7M 1% 100mW,0603_1608Metric,SMD,LCSC,C23163,https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C23163.html
+17,SW1,1,Omron Electronics,B3U-1000P,B3U-1000P,Tactile Switches SPST 50mA 12V 2.5x3mm,SW_SPST_B3U-1000P,SMD,LCSC,C231329,https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html
+18,SW2,1,Omron Electronics,B3U-1000P,B3U-1000P,Tactile Switches SPST 50mA 12V 2.5x3mm,SW_SPST_B3U-1000P,SMD,LCSC,C231329,https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html
+19,U1,1,RAKwireless,RAK3172,RAK3172,RAK3172 Module without IPEX AS923,RAK3172,SMD,RAKwireless,309044,Contact inquiry@rakwireless.com for SKU: 309044
+20,U2,1,WCH(Jiangsu Qin Heng),CH340E,CH340E,USB to UART IC 2Mbps Transceiver USB 2.0,MSOP-10_3x3mm_P0.5mm,SMD,LCSC,C99652,https://www.lcsc.com/product-detail/_WCH-Jiangsu-Qin-Heng-_C99652.html
+21,U3,1,Microchip Technology,MCP73831T-2ACI/OT,MCP73831T-2ACI/OT,Charger IC Lithium Ion/Polymer,SOT-23-5,SMD,LCSC,C424093,https://www.lcsc.com/product-detail/Battery-Management-ICs_Microchip-Tech-MCP73831T-2ACI-OT_C424093.html
+22,U4,1,Torex Semiconductor,XC6220B331MR-G,XC6220B331MR-G,Linear Voltage Regulators (LDO) 1A Fixed +3.3V,SOT-23-5,SMD,LCSC,C86534,https://www.lcsc.com/product-detail/_Torex-Semicon-_C86534.html
+23,"C5,C2",2,-,-,DNP,Do Not Populate,0402_1005Metric,DNP,-,-,-
+24,J2,1,-,-,DNP,Do Not Populate,PinHeader_1x12_P2.54mm_Vertical,DNP,-,-,-
+25,J1,1,-,-,DNP,Do Not Populate,PinHeader_1x16_P2.54mm_Vertical,DNP,-,-,-
