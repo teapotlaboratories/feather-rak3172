@@ -1,7 +1,3 @@
-
-
-
-  
 # Teapot Feather RAK3172
  <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/assembled_front.jpg" alt="drawing"  width="80%" height="80%"/></p>
  
@@ -118,11 +114,11 @@ Teapot Feather RAK3172 is a feather compatible board, and hence is compatible wi
 ### Over-engineered Clock 
 An over-engineered clock with main purpose to showcase FeatherWings compatibility.
 FeatherWings and sensors used:  
-- Ultimate GPS ( adafruit.com/product/3133 )  
-- Tri-Color E-Ink ( adafruit.com/product/4814 )  
-- Qwiic Shield ( sparkfun.com/products/16790 )  
-- BME680 ( adafruit.com/product/3660 )  
-- Modified E-Ink Case ( learn.adafruit.com/eink-featherwing-display-stand )
+- [Ultimate GPS](adafruit.com/product/3133)  
+- [Tri-Color E-Ink](adafruit.com/product/4814)  
+- [Qwiic Shield](sparkfun.com/products/16790)  
+- [BME680](adafruit.com/product/3660)  
+- [Modified E-Ink Case](learn.adafruit.com/eink-featherwing-display-stand)
 
 <p align="center">
 <img align="center" width="38%" height="38%" src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/gps_clock_front.jpg">
