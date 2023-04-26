@@ -22,7 +22,7 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - USB-C for **Arduino** and  **Mbed OS/STM32Cube** programming
 - SMA antenna connector 
 - JST-PH 2-Pin Battery Connector
-- Built-in LiPo Charger
+- Built-in LiPo Charger ( 200mA Charge Rate )
 - Voltage-Divider for Battery Monitoring ( default: **disabled** )
 - LED Indicator on pin 8 ( default: **disabled** )
 - Compatible with many Adafruit FeatherWings
