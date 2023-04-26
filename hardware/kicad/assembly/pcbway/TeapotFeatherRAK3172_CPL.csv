@@ -1,0 +1,38 @@
+Id,Designator,Value,Footprint,Center-X(mm),Center-Y(mm),Rotation,Layer,Description
+1,C1,100n,0603_1608Metric,143.129,-107.5058,-90,top,Ceramic Capacitor 100n 10% 10V X7R
+2,C3,10u,0603_1608Metric,141.605,-107.5058,-90,top,Ceramic Capacitor 10u 10% 10V X5R
+3,C4,100n,0603_1608Metric,142.367,-105.2322,180,top,Ceramic Capacitor 100n 10% 10V X7R
+4,C6,10u,0603_1608Metric,134.099,-100.076,180,top,Ceramic Capacitor 10u 10% 10V X5R
+5,C7,100n,0603_1608Metric,129.0444,-101.7778,180,top,Ceramic Capacitor 100n 10% 10V X7R
+6,C8,10u,0805_2012Metric,137.6274,-95.6818,0,top,Ceramic Capacitor 10u 10% 10V X5R
+7,C9,10u,0805_2012Metric,134.6606,-106.045,180,top,Ceramic Capacitor 10u 10% 10V X5R
+8,C10,10u,0805_2012Metric,138.4808,-102.6922,-90,top,Ceramic Capacitor 10u 10% 10V X5R
+9,C11,100n,0603_1608Metric,133.35,-97.803,-90,top,Ceramic Capacitor 100n 10% 10V X7R
+10,D1,BLUE,0603_1608Metric,118.7865,-96.3695,0,top,LED Blue 2V 25mA
+11,D2,ORANGE,0603_1608Metric,118.745,-108.3945,180,top,LED Orange 2V 25mA
+12,D3,B5819W,SOD-123,131.7498,-107.315,-90,top,Schottky Barrier Diodes (SBD) 40V 0.58V@1A
+13,J3,USB_C_Receptacle_USB2.0,USB_C_Receptacle_XKB_U262-16XN-4BVC11,120.8,-102.362,-90,top,USB Type C Receptacle
+14,J4,SMA-KE-P903,SMA-KE-P903,165.5,-102.362,-90,top,SMA RF Connectors Board Edge 50Ω 5.35mm 915MHz 
+15,J6,JST_PH_S2B-PH-SM4-TB,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,127.8709,-95.8699,180,top,"Connector Header Right Angle 2 position 0.079"" (2.00mm)"
+16,L1,0,0402_1005Metric,162.4946,-100.5098,-90,top,Resistor 0 5% 65mW
+17,Q1,DMG3415UQ-7,SOT-23,132.2832,-102.9716,-90,top,MOSFET P-Channel 20V 4A 39mΩ@4.5V
+18,R1,1K,0603_1608Metric,140.9954,-103.7082,0,top,Resistor 1k 5% 100mW
+19,R2,1K,0603_1608Metric,122.6566,-92.8756,-90,top,Resistor 1k 5% 100mW
+20,R3,5.1K,0603_1608Metric,126.0094,-101.7778,0,top,Resistor 5.1k 1% 100mW
+21,R4,5.1K,0603_1608Metric,126.0094,-107.061,0,top,Resistor 5.1k 1% 100mW
+22,R5,5.1K,0603_1608Metric,140.9954,-102.1842,0,top,Resistor 5.1k 1% 100mW
+23,R6,1K,0603_1608Metric,125.9972,-108.585,180,top,Resistor 1k 5% 100mW
+24,R7,10K,0603_1608Metric,129.032,-107.061,180,top,Resistor 10k 5% 100mW
+25,R8,10K,0603_1608Metric,134.6962,-107.823,180,top,Resistor 10k 5% 100mW
+26,R9,4.7M,0603_1608Metric,134.1506,-95.504,0,top,Resistor 4.7M 1% 100mW
+27,R10,10M,0603_1608Metric,134.9248,-97.8022,-90,top,Resistor 10M 1% 100mW
+28,SW1,SW_SPST_B3U-1000P,SW_SPST_B3U-1000P,139.1666,-106.9068,90,top,Tactile Switches SPST 50mA 12V 2.5x3mm
+29,SW2,SW_SPST_B3U-1000P,SW_SPST_B3U-1000P,142.0622,-98.9838,90,top,Tactile Switches SPST 50mA 12V 2.5x3mm
+30,U1,RAK3172,RAK3172,152.368,-102.342,-90,top,RAK3172 Module without IPEX AS923
+31,U2,CH340E,MSOP-10_3x3mm_P0.5mm,127.368,-104.4194,-90,top,USB to UART IC 2Mbps Transceiver USB 2.0
+32,U3,MCP73831T-2ACI/OT,SOT-23-5,137.6274,-98.7751,180,top,Charger IC Lithium Ion/Polymer
+33,U4,XC6220B331MR-G,SOT-23-5,135.7376,-102.9462,90,top,Linear Voltage Regulators (LDO) 1A Fixed +3.3V
+34,C2,DNP,0402_1005Metric,162.04,-99.0644,0,top,Do Not Populate
+35,C5,DNP,0402_1005Metric,162.04,-101.96,0,top,Do Not Populate
+36,J1,DNP,PinHeader_1x16_P2.54mm_Vertical,-161.29,-112.503949,90,bottom,Do Not Populate
+37,J2,DNP,PinHeader_1x12_P2.54mm_Vertical,-133.458949,-92.183949,-90,bottom,Do Not Populate
