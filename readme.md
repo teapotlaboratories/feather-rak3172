@@ -8,7 +8,7 @@
 Teapot Feather RAK3172 breaks out [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet) to an Adafruit Feather-compatible format.
 
 At the heart of the device is the RAK3172, a STM32WLE5CC based module with ARM Cortex M4 processor, 48 MHz and 3.3V logic. The chip has a 256K of flash and 64K of RAM. 
-With low-power application in mind, the board is capable to be in sleep mode for as low as 1.69uA, it also has a built-in voltage divider to sense battery voltage and battery charger.
+With low-power application in mind, the board is capable to be in sleep mode for as low as 12uA, it also has a built-in voltage divider to sense battery voltage and battery charger.
 
 Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https://github.com/azerimaker/Penguino-STM32WL-LoRa-E5) and [BastWAN-WLE](https://github.com/ElectronicCats/BastWAN-WLE) projects!
 
@@ -29,11 +29,10 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - Max 1A power output
 
 ## Schematics
-
 <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/hardware/schematic.png" alt="schematic"/></p>
 
 ## Board
- <p align="center">  <img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_render.gif" alt="pcb_render"  width="80%" height="80%"/><br><b>PCB Render</b></p>
+<p align="center">  <img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_render.gif" alt="pcb_render"  width="80%" height="80%"/><br><b>PCB Render</b></p>
 
 Built using KiCAD, the board is design to be as small as possible. The following design are based on the latest revision.
 | Top Board | Bottom Board |
@@ -119,12 +118,16 @@ FeatherWings and sensors used:
 - Qwiic Shield ( sparkfun.com/products/16790 )  
 - BME680 ( adafruit.com/product/3660 )  
 - Modified E-Ink Case ( learn.adafruit.com/eink-featherwing-display-stand )
- <p align="center">
+
+<p align="center">
 <img align="center" width="38%" height="38%" src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/gps_clock_front.jpg">
 <img align="center" width="34%" height="34%" src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/gps_clock_side.jpg">
 <br><b>Front and Side View</b></p>
 
- <p align="center">  <img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/gps_clock_back.jpg" alt="pcb_render"  width="50%" height="50%"/><br><b>Back View</b></p>
+<p align="center">  
+<img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/gps_clock_back.jpg" alt="pcb_render"  width="50%" height="50%"/>
+<br><b>Back View</b>
+</p>
  
 ## Reference
 The project won't be possible without the amazing work from people across the globe. The following are the reference to those awesome projects:
