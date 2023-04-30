@@ -1,3 +1,4 @@
+
 # Teapot Feather RAK3172
  <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/assembled_front.jpg" alt="drawing"  width="80%" height="80%"/></p>
  
@@ -31,6 +32,10 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - JP1 and JP4: Enable/Disable Voltage Divider for Battery Sensing
 - JP2: Enable/Disable LED Indicator on Pin 8
 - JP3, JP5, and JP6: Enable/Disable UART Bridge
+
+### Pinout Diagram
+> :warning: **The following pinout is not complete, please see STM32WLE5CC datasheet for more details.** 
+<p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/pinout_diagram.png" alt="pinout_diagram"/></p>
 
 ## Board
 <p align="center">  <img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_render.gif" alt="pcb_render"  width="80%" height="80%"/><br><b>PCB Render</b></p>
