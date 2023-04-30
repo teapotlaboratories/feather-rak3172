@@ -36,5 +36,11 @@
 ## PCB Front
 <p align="center"><img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_front.png" width="90%" height="90%"/></p>
 
+## PCB Front Orthographic
+<p align="center"><img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_front_orthographic.png" width="90%" height="90%"/></p>
+
 ## PCB Render
 <p align="center"><img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pcb_render.gif" width="90%" height="90%"/></p>
+
+## Pinout Diagram
+<p align="center"><img src="https://github.com/teapotlaboratories/feather-rak3172/raw/main/docs/images/pinout_diagram.png" width="90%" height="90%"/></p>
