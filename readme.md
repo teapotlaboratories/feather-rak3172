@@ -2,10 +2,10 @@
 # Teapot Feather RAK3172
  <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/assembled_front.jpg" alt="drawing"  width="80%" height="80%"/></p>
  
-Teapot Feather RAK3172 breaks out [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet) to an Adafruit Feather-compatible format.
+Teapot Feather RAK3172 a Low-cost, Low-poewr LoRaWAN Development board that breaks out [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet) to an Adafruit Feather-compatible format.
 
-At the heart of the device is the RAK3172, a STM32WLE5CC based module with ARM Cortex M4 processor, 48 MHz and 3.3V logic. The chip has a 256K of flash and 64K of RAM. 
-With low-power application in mind, the board is capable to be in sleep mode for as low as 12uA, it also has a built-in voltage divider to sense battery voltage and battery charger.
+Based on the RAK3172, a STM32WLE5CC based module with ARM Cortex M4 processor, 48 MHz and 3.3V logic. The chip has a 256K of flash and 64K of RAM. 
+With low-power application in mind, the board is capable to be in sleep mode for as low as 11uA, it also has a built-in voltage divider to sense battery voltage and battery charger.
 
 Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https://github.com/azerimaker/Penguino-STM32WL-LoRa-E5) and [BastWAN-WLE](https://github.com/ElectronicCats/BastWAN-WLE) projects!
 
@@ -13,7 +13,7 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 
 - [RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/): An STM32WLE5CC module
 - 3.3V only power/pin. 
-- Up to 12uA Deep-Sleep
+- Down to 11uA Deep-Sleep
 - Switchable TX Power. 14 dBm or 22 dBm on 915MHz frequency
 - Supports LoRaWAN 1.0.3
 - USB-C for **Arduino** and  **Mbed OS/STM32Cube** programming
