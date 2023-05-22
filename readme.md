@@ -25,6 +25,9 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - Compatible with many Adafruit FeatherWings
 - Max 1A power output
 
+## To-do
+- Update assembly and docs file to Revision 9.1
+
 ## Schematics
 <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/hardware/schematic.png" alt="schematic"/></p>
 
@@ -32,6 +35,10 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - JP1 and JP4: Enable/Disable Voltage Divider for Battery Sensing
 - JP2: Enable/Disable LED Indicator on Pin 8
 - JP3, JP5, and JP6: Enable/Disable UART Bridge
+
+### Revision
+- Revision 9  : First public release
+- Revision 9.1: Fix LED D1 polarity 
 
 ### Pinout Diagram
 > :warning: **The following pinout is not complete, please see STM32WLE5CC datasheet for more details.** 
