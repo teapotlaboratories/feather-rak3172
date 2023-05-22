@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Feather RAK3172")
-    (date "2023-03-21")
-    (rev "9")
+    (date "2023-05-21")
+    (rev "9.1")
     (company "Teapot Laboratories")
   )
 
@@ -4095,7 +4095,7 @@
   (gr_text "BAT" (at 133.477 95.25 270) (layer "B.SilkS") (tstamp 7938b562-a226-4984-8e0b-4ceab10f9275)
     (effects (font (size 0.89408 0.89408) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Rev 9" (at 128.524 104.648) (layer "B.SilkS") (tstamp 81deec10-4da2-49ee-a8eb-e4c5c92c72eb)
+  (gr_text "Rev 9.1" (at 128 104.648) (layer "B.SilkS") (tstamp 81deec10-4da2-49ee-a8eb-e4c5c92c72eb)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
   )
   (gr_text "20" (at 135.89 109.982 270) (layer "B.SilkS") (tstamp 98b042a4-8fbe-4db6-87c1-8f8cb99279ee)
@@ -4292,7 +4292,7 @@
   (via (at 146.6342 107.188) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8c6ba935-11f4-477e-be18-f14f2944c809))
   (via (at 137.8204 107.2642) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8d2f4f0d-40ab-40b9-8ce6-aa9027c00df6))
   (via (at 162.67 107.74) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8e4b3773-6cd4-4bcf-bee0-b37e54eb362d))
-  (via (at 126.238 104.4194) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8fbe88e9-83c2-4506-a7ea-b30b3ee80b4e))
+  (via (at 126.27 103.03) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8fbe88e9-83c2-4506-a7ea-b30b3ee80b4e))
   (via (at 164.3888 103.505) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 8fbfca6b-bd7e-4752-8cd5-8b1392976843))
   (via (at 164.2 98.12) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 93ee3646-0878-4f45-aa49-e924face6fd9))
   (via (at 118.5 103.5) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 94328f8c-f29c-474b-915d-5de760e02177))

@@ -6,8 +6,8 @@
 
   (title_block
     (title "Feather RAK3172")
-    (date "2023-03-21")
-    (rev "9")
+    (date "2023-05-21")
+    (rev "9.1")
     (company "Teapot Laboratories")
   )
 
