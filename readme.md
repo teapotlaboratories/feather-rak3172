@@ -26,7 +26,7 @@ Teapot Feather RAK3172 is heavily inspired by [Penguino STM32WL LoRa-E5](https:/
 - Max 1A power output
 
 ## To-do
-- Update assembly and docs file to Revision 9.1
+- Update assembly/TeapotFeatherRAK3172_Assembly.zip and docs file to Revision 9.1
 
 ## Schematics
 <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/hardware/schematic.png" alt="schematic"/></p>
